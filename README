@@ -1,0 +1,11 @@
+From MySQL database to Excel spreadsheet using DataNitro
+
+For datasets that are constantly being altered and analyzed in Excel,
+having a script that directly outputs into a spreadsheet from a database
+will save much time.
+
+An example is given that takes data from an earlier web scrape job (TechCrunch)
+from a MySQL database and outputs into a spreadsheet.
+
+Checkout:
+    https://datanitro.com/index.html
